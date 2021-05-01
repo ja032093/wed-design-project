@@ -1,0 +1,312 @@
+@charset "UTF-8";
+body {
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.navbar.navbar-default.navbar-fixed-top .container-fluid #topFixedNavbar1 {
+	background-color: #000000;
+	padding-right: 31px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: large;
+	padding-bottom: 3px;
+	padding-top: 0px;
+}
+.navbar {
+	border-bottom: 2px solid #000000;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+#topFixedNavbar1 .nav.navbar-nav.navbar-right li {
+	color: #0A8F4E;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: #0A8F4E;
+}
+.nav.navbar-nav.navbar-right li a:hover  {
+	color: #FFFFFF;
+}
+.container-fluid .navbar-header .navbar-brand {
+	font-family: bowlby-one;
+	font-style: normal;
+	font-weight: 500;
+	color: #0A8F4E;
+	font-size: xx-large;
+}
+.container-fluid {
+	background-color: #000000;
+}
+.container.top {
+	padding-top: 0px;
+	margin-top: 72px;
+	text-align: center;
+}
+.container.top.contactcontainer {
+}
+.row .row .col-lg-6.donate {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+	padding-top: 151px;
+	padding-left: 28px;
+	padding-bottom: 75px;
+	padding-right: 90px;
+	margin-left: 30px;
+	text-align: center;
+}
+.row {
+}
+.item.active .carousel-caption {
+}
+.row .col-lg-3 {
+	height: 145px;
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.container-fluid.control-label {
+	/* [disabled]clear: none; */
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #FFFFFF;
+	color: #0A8F4E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#carousel1 {
+	width: 100%;
+	padding-top: 0px;
+	font-size: medium;
+	background-color: #000000;
+}
+
+.centercol {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.donatebtn {
+	width: 200px;
+	font-size: 200%;
+	background-color: #FFDF00;
+	margin-bottom: 49px;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.carousel-inner .item .carousel-caption {
+	color: #FFFFFF;
+}
+.halfnarrower {
+	width: 70%;
+	text-align: center;
+	/* [disabled]font-size: 50px; */
+}
+.container-fluid.control-label .halfnarrower.centercol.h1 {
+	font-size: 50px;
+}
+.container-fluid.newsletter .emailbtn {
+	font-size: small;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border: thin solid #FFDF00;
+	text-align: left;
+	width: 233px;
+	height: 28px;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+.row .col-lg-12 {
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+.col-lg-3.centercol h4 a {
+	color: #FFFFFF;
+}
+.container.top h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+}
+.img-responsive.centercol {
+}
+.container.top .events {
+	font-size: 50px;
+}
+.container.top.centercol.gallerycolumn table {
+	text-align: center;
+}
+.container-fluid.registergetinvolved {
+	background-color: #0A8F4E;
+	margin-top: 53px;
+	color: #FFFFFF;
+}
+.container-fluid.registergetinvolved.centercol .registergetinvolved {
+}
+
+@media (max-width:767px){
+.navbar.navbar-default.navbar-fixed-top {
+	height: 72px;
+	background-color: #000000;
+}
+.container.top .centercol.aboutlogo {
+	text-align: center;
+}
+#text {
+	color: #FFFFFF;
+}
+}
+
+.embed-container
+{ 
+	
+	position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
+.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+}
+.bggreen {
+	background-color: #0A8F4E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #FFFFFF;
+}
+.bgblack {
+	background-color: #000000;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #FFFFFF;
+}
+.missiontext {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+}
+.video {
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 16px;
+	font-size: 168%;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+}
+.newsletter {
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	background-color: #0A8F4E;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.subscribebtn {
+	background-color: #FFDF00;
+	width: 151px;
+	font-size: 91%;
+	opacity: 1;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #000000;
+}
+.credit {
+	background-color: #000000;
+}
+.row .col-lg-3.centercol {
+	background-color: #000000;
+}
+.logo {
+	width: 2.5%;
+	height: 2.5%;
+}
+.top {
+}
+.container.top.para2 {
+	margin-top: 0px;
+}
+.para2 {
+}
+.enter {
+}
+.textenter {
+	color: #FFFFFF;
+	font-size: x-large;
+	text-shadow: 3px 3px 3px #000000;
+}
+.item .carousel-caption h3 {
+	text-shadow: 3px 3px 3px #000000;
+	font-size: xx-large;
+}
+.events {
+}
+.ourmissioncolumn {
+	padding-left: 25px;
+	padding-right: 25px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+}
+.event5 {
+	width: 761px;
+	border: 6px solid #000000;
+}
+.team5 {
+	border: 6px solid #000000;
+	width: 762px;
+}
+.gallerycolumn {
+	color: #0A8F4E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.eventscolumn {
+	color: #0A8F4E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.aboutcolumn {
+	color: #0A8F4E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+#gallery {
+	width: 700px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11px;
+	background-color: black;
+}
+.contactcontainer {
+	margin-top: 71px;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+}
+.map {
+	background-color: #FAEA04;
+	color: #0A8F4E;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.container-fluid.map.centercol .centercol {
+	border: thick solid #0A8F4E;
+}
+.getinvolvedcolumn {
+	background-color: #0A8F4E;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	font-size: large;
+}
+.container-fluid.centercol.getinvolvedcolumn form .inputtext {
+	color: #000000;
+}
+.row.gicolumn .col-lg-6.centercol {
+}
+.registerbtn {
+	background-color: #FFDF00;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+}
+.gicolumn {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+	background-color: #FAEA04;
+}
+.inputtext {
+}
+.gicolumn2 {
+	background-color: #FFFFFF;
+	margin-top: 51px;
+}
+.auintrst {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0A8F4E;
+}
+.auintrst1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
